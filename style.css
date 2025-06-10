@@ -117,7 +117,7 @@ img {
 .type-wrap {
     font-size: 25px;
     color: #C4515C;
-
+    margin-bottom: 2em; /* Added this line to create 2 line gap */
 }
 
 .cake {
@@ -159,7 +159,7 @@ img {
         margin-bottom: 15px;
     }
     .cake {
-        margin-top: 30px;
+        margin-top: 2em; /* Changed from 30px to 2em to match the gap */
         position: relative;
         left: auto;
         transform: none;
